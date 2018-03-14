@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UI_vibgyor</string>
+    <string name="VIOLET">v</string>
+    <string name="INDIGO">i</string>
+    <string name="BLUE">b</string>
+    <string name="GREEN">g</string>
+    <string name="YELLOW">y</string>
+    <string name="ORANGE">o</string>
+    <string name="RED">r</string>
+
+</resources>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.tanuj.ui_vibgyor.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/VIOLET"
+        android:textSize="@dimen/textSize"
+        android:gravity="center"
+        android:background="@color/violet"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/INDIGO"
+        android:textSize="@dimen/textSize"
+        android:gravity="center"
+        android:background="@color/indigo"
+        android:textColor="@color/red"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/BLUE"
+        android:textSize="@dimen/textSize"
+        android:gravity="center"
+        android:background="@color/blue"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/GREEN"
+        android:textSize="@dimen/textSize"
+        android:gravity="center"
+        android:background="@color/green"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/YELLOW"
+        android:textSize="@dimen/textSize"
+        android:gravity="center"
+        android:background="@color/yellow"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/ORANGE"
+        android:textSize="@dimen/textSize"
+        android:gravity="center"
+        android:background="@color/orange"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/RED"
+        android:textSize="@dimen/textSize"
+        android:gravity="center"
+        android:background="@color/red"/>
+
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
